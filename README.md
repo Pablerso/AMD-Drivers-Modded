@@ -7,8 +7,8 @@ AMD Driver 20.4.2 Debloated and Modded for Best Performance.
 - AMD Log removed.
 - Modifications in the .inf.
 
-¿How to install?
-First, enter test mode
+¿HOW TO INSTALL?
+First, enter test mode. 
 bcdedit /set testsigning on in CMD
 
 Go to Device Manager and in "Display Adapters" look for "Microsoft Basic Display Adapter" right click update driver
