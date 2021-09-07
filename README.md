@@ -17,8 +17,8 @@ Go to Device Manager and in "Display Adapters" look for "Microsoft Basic Display
 ![image](https://user-images.githubusercontent.com/88601987/132269318-b05e37cb-4bff-4d43-8fbc-c08086237458.png)
 
 ![image](https://user-images.githubusercontent.com/88601987/132269346-f136e485-f0a0-4f93-b9f3-25d8b62a078c.png)
-
-![image](https://user-images.githubusercontent.com/88601987/132269361-c6011df1-0a24-42e1-8238-fbb1c238c906.png)
 Select "Browser" and look for the .inf of the driver
+![image](https://user-images.githubusercontent.com/88601987/132269361-c6011df1-0a24-42e1-8238-fbb1c238c906.png)
 
 ![image](https://user-images.githubusercontent.com/88601987/132269409-609d27b1-6935-4101-8d94-a52b7a705943.png)
+It will take 1 or 2 minutes to install the driver, please be patient and wait
