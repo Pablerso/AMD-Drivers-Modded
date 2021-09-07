@@ -8,7 +8,6 @@ AMD Driver 20.4.2 Debloated and Modded for Best Performance
 ### CHANGES 📋
 
 
-AMD Driver 20.4.2 Debloated and Modded for Best Performance.
 
 - AMD External event utility completely removed.
 - All bloatware driver removed.
