@@ -3,7 +3,6 @@
 
 AMD Driver 20.4.2 Debloated and Modded for Best Performance
 
-Mira **Deployment** para conocer como desplegar el proyecto.
 
 
 ### CHANGES 📋
