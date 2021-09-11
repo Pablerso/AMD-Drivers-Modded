@@ -14,10 +14,12 @@ AMD Driver 20.4.2 Debloated and Modded for Best Performance
 - Powersavings disabled.
 - AMD Log removed.
 - Modifications in the .inf.
+- AMD Control Panel removed.
 
 ### ¿HOW TO INSTALL? 🔧
 First, enter test mode. 
  bcdedit /set testsigning on in CMD
+ and restart PC
 
 Go to Device Manager and in "Display Adapters" look for "Microsoft Basic Display Adapter" right click update driver
 ![Untitled](https://user-images.githubusercontent.com/88601987/132269156-04aa60fe-c165-4b25-a405-6c922c7f48be.png)
@@ -34,3 +36,6 @@ Select "Browser" and look for the .inf of the driver.
 It will take 1 or 2 minutes to install the driver, please be patient and wait.
 
 ![image](https://user-images.githubusercontent.com/88601987/132269409-609d27b1-6935-4101-8d94-a52b7a705943.png)
+
+After installing the drivers, remember to exit the test mode with bcdedit /deletevalue testsigning
+and restart the PC.
