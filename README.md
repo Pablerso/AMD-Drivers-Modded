@@ -1,7 +1,7 @@
-# AMD DRIVER 20.4.2 MODDED
+# AMD DRIVERS MODDED
 
 
-AMD Driver 20.4.2 Debloated and Modded for Best Performance
+AMD Drivers Debloated and Modded for Best Performance
 
 
 
